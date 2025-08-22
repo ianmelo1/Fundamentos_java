@@ -7,6 +7,9 @@ public class Main {
 
         elevador.entrar(3);
         elevador.sair(4);
+        elevador.subir(3);
+        elevador.descer(2);
+        elevador.subir(8);
         elevador.entrar(20);
 
     }
