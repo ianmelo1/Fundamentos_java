@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce4e1e4-1da4-48f0-81bc-5dcc9bc91202" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elevadorzin/Elevador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elevadorzin/Entrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scanner_exemplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scanner_exemplos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings_exemplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings_exemplos.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ce4e1e4-1da4-48f0-81bc-5dcc9bc91202" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +76,7 @@
       <updated>1755472320523</updated>
       <workItem from="1755699926194" duration="196000" />
       <workItem from="1755700592678" duration="794000" />
-      <workItem from="1755864756462" duration="4323000" />
+      <workItem from="1755864756462" duration="4625000" />
     </task>
     <servers />
   </component>

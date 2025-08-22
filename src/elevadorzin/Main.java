@@ -1,6 +1,6 @@
 package elevadorzin;
 
-public class Entrar {
+public class Main {
     public static void main(String[] args){
         Elevador elevador = new Elevador(5, 10);
 
